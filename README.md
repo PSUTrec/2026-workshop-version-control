@@ -22,3 +22,9 @@
   * [Part 2: Cookbook](/day-2/2-cookbook.md)
 * Cheatsheets
   * (see wiki)
+
+
+## Further reading
+
+* [Common `git` patterns/workflows](https://happygitwithr.com/workflows-intro)
+* [Resolving merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)

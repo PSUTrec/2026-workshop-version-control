@@ -4,6 +4,8 @@
 
 #### Instructors: Tammy Lee, Iris Rademacher
 
+<hr />
+
 ### Table of Contents
 * Day 1
   * [Part 1: Version Control](/day-1/1-version-control.md)

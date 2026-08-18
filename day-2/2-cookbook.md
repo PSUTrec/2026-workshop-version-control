@@ -4,7 +4,7 @@
 * try it yourself!
   * pull request
   * merge
-  * rebase?
+    * mention ff/rebase
   * review
   * merge conflict?
 * more git commands

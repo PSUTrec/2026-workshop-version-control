@@ -15,7 +15,7 @@ In contrast, **CLIs** (Command Line Interfaces) are less approachable, but often
 cd Downloads
 ```
 
-Unlike a GUI, which stays open and lets you click on buttons until you close it, when you invoke a program via CLI it runs as a one-off command, then prints out any relevant information about what it did and closes itself.
+Unlike a GUI, which stays open and lets you click on buttons until you close it, when you invoke a program via CLI it runs as a one-off command, then prints out any relevant information about what it did, after which the command line window remains open and ready to accept more input.
 
 <br />
 <div align="center">

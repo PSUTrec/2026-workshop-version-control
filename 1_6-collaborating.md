@@ -1,4 +1,4 @@
 
-* clone
+* clone/remote
 * branch
 * fork

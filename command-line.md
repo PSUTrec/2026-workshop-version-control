@@ -15,3 +15,5 @@ Unlike a GUI, which stays open and lets you click on buttons until you close it,
 picture, interaction diagrams
 
 shell, prompt
+
+why command line?

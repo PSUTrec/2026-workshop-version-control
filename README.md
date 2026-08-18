@@ -28,3 +28,5 @@
 
 * [Common `git` patterns/workflows](https://happygitwithr.com/workflows-intro)
 * [Resolving merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+* [Cascadia R Conference Intro to Git Workshop](https://github.com/cascadiarconf-gh-workshops/intro-github-1) (possibly link to their github basics instead)
+* GitHub documentation

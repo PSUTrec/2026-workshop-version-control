@@ -8,3 +8,4 @@
   * add
   * commit
   * log
+  * reflog

@@ -1,3 +1,4 @@
+* config
 * clone
 * make local changes with vs code
 

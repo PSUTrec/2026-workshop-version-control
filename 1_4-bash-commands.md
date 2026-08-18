@@ -2,6 +2,8 @@
 * pwd
 * cd
 * mv
+* cp
+* rm
 * mkdir
 * head <file>
 * tail <file>

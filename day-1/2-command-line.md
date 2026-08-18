@@ -17,3 +17,30 @@ picture, interaction diagrams
 shell, prompt
 
 why command line?
+
+
+
+## Command line
+
+### TL;DR
+
+> The command line is a way of giving your computer instructions by typing them out (effectively, writing short programs, or "scripts"). This can be more efficient and make automation easier than navigating a point-and-click UI, but worse for more visual use cases.
+
+# `git` workflow
+
+## Command line basics
+
+Let's take a look at some common commands that are included with `bash`.
+
+### Access
+
+* Windows
+  * `Start Menu > Git Bash`
+    * This is an emulation of the command line that is installed by default on macOS and Linux
+    * Windows has its own command prompt but it is harder to use with `git`
+* macOS
+  * `Spotlight Search (Cmd+Space) > Terminal`
+* Linux
+  * You know what you're doing (if you don't, `"Windows" key > Terminal`, probably)
+
+> Hint: Press `Tab` to try and autocomplete a command or filename you have started typing out.

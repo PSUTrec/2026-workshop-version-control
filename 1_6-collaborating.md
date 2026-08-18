@@ -1,3 +1,4 @@
 
+* clone
 * branch
 * fork

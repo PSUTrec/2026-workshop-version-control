@@ -3,6 +3,8 @@ diagram comparing ms word and onedrive to git and github
 
 * why ssh
 * secrets management
+* access control
+* automated code auditing
 
 * Setting up a project
   * Initializing git 

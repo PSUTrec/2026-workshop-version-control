@@ -61,3 +61,19 @@ There are other `git` cloud providers out there that are less ... vertically-int
 * [Codeberg](https://docs.codeberg.org/)
 
 These platforms often have [instructions](https://docs.gitlab.com/user/project/import/github/) for [moving your code over](https://docs.codeberg.org/advanced/migrating-repos/) from GitHub.
+
+
+
+## GitHub setup
+
+### New repository
+
+* Click on your profile icon in the top right
+* Select `Repositories` from the dropdown
+* Click the `New` button near the top right
+
+### Existing repository
+
+* Navigate to the repository
+* Click the `Fork` button near the top right
+* On the next page, click the `Create fork` button

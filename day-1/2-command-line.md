@@ -92,3 +92,5 @@ Usually pressing the "`Windows`" key and typing "terminal" or "console" will wor
   <img width="700" src="https://github.com/user-attachments/assets/fa96adc5-0abc-42c5-9448-0f20d1ff9864" />
 </div>
 <br />
+
+### Next Module: [What is GitHub?](/day-1/3-github.md)

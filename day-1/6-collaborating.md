@@ -1,7 +1,5 @@
 # Collaborating with `git` and GitHub
 
-### Homework for Day 2: [Write a Recipe in Markdown](/exercises/1-recipe.md) and optionally, [Version Control for an Existing Project](/exercises/2-existing-project.md)
-
 
 * clone/remote
 * branch
@@ -16,3 +14,5 @@
 * Write up a description of your changes
 * Click the `Create pull request` button
 * Someone with the correct permissions on the repository can then approve your changes, or request that you make even more changes before they accept them
+
+### Homework for Day 2: [Write a Recipe in Markdown](/exercises/1-recipe.md) and optionally, [Version Control for an Existing Project](/exercises/2-existing-project.md)

@@ -2,7 +2,7 @@
 
 * examples/refresher
 
-* try it yourself!
+* try it yourself! in the [cookbook repo](https://github.com/PSUTrec/2026-workshop-version-control-cookbook)
   * pull request
   * merge
     * mention ff/rebase

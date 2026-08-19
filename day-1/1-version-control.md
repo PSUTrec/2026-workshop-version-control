@@ -1,4 +1,4 @@
-# Version Control
+# What is Version Control?
 
 Fundamentally, [**version control**](https://en.wikipedia.org/wiki/Version_control) is the practice of tracking edits made to computer files over time. A **VCS** (Version Control System) is a software tool that automates some aspects of version control.
 

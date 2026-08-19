@@ -1,3 +1,7 @@
+# Collaborating with `git` and GitHub
+
+### Homework for Day 2: [Write a Recipe in Markdown](/exercises/1-recipe.md) and optionally, [Version Control for an Existing Project](/exercises/2-existing-project.md)
+
 
 * clone/remote
 * branch

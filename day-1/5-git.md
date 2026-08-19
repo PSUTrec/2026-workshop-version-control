@@ -1,3 +1,7 @@
+# Introductory `git` Commands
+
+### Next Module: [Collaborating with `git` and GitHub](/day-1/6-collaborating.md)
+
 * config
 * clone
 * make local changes with vs code

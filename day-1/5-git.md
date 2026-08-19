@@ -1,7 +1,5 @@
 # Introductory `git` Commands
 
-### Next Module: [Collaborating with `git` and GitHub](/day-1/6-collaborating.md)
-
 * config
 * clone
 * make local changes with vs code
@@ -122,3 +120,5 @@ git push origin HEAD
 ```
 
 > If the output of `git merge` tells you there are merge conflicts, you can resolve them by editing the files with a text editor and reconciling the differences yourself
+
+### Next Module: [Collaborating with `git` and GitHub](/day-1/6-collaborating.md)

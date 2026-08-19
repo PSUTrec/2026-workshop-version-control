@@ -1,28 +1,17 @@
 # Introductory `bash` Commands
 
-### Next Module: [Introductory `git` Commands](/day-1/5-git.md)
-
-
-* ls -a
-* pwd
-* cd
-* mv
-* cp
-* rm
 * mkdir
 * head <file>
 * tail <file>
-* tab completion
-* cat
 * touch
-* echo $variable
-
 
 ### Navigation
 
 ```bash
 # Prints a list of the files in the current folder
 ls
+# Prints a list of all files in the current folder, including hidden ones
+ls -a
 # Prints the name of the current folder
 pwd
 # Moves to the given folder
@@ -60,3 +49,5 @@ rm file1
 ```
 
 > If a destination file that already exists is provided to `cp` or `mv`, it will be overwritten. Files overwritten by `cp` or `mv` or deleted by `rm` are not sent to the Trash, but instead fully erased.
+
+### Next Module: [Introductory `git` Commands](/day-1/5-git.md)

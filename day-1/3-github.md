@@ -1,3 +1,14 @@
+# What is GitHub?
+
+As discussed in the previous modules, `git` is a software tool for 
+
+### Next Module: [Introductory `bash` Commands](/day-1/4-bash-commands.md)
+
+
+
+
+
+
 brief explanation of OSS
 
 

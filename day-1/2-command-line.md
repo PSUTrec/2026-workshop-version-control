@@ -17,6 +17,8 @@ cd Downloads
 
 Unlike a GUI, which stays open and lets you click on buttons until you close it, when you invoke a program via CLI it runs as a one-off command, then prints out any relevant information about what it did, after which the command line window remains open and ready to accept more input.
 
+The following screenshot is an example of using `git` from the command line. Don't worry if this image doesn't make sense yet: we will build up to it!
+
 <br />
 <div align="center">
   <img width="700" src="https://github.com/user-attachments/assets/d9a5be0a-9503-4aa5-a108-88b52f24e183" />

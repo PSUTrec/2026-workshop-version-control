@@ -35,11 +35,7 @@ When we talk about "the command line", we are actually talking about several dif
 
 The first is called a **terminal emulator** or just **terminal**. This refers to the application that you open on your computer to access a command line.
 
-(screenshot of git bash executable/command prompt etc)
-
 When you open the terminal, it starts a **shell**, which displays a **prompt**. The shell is the program that reads the things you are typing in and decides what to do when you hit `Enter`, and the prompt is some text that the shell prints out to let you know it is waiting for your input.
-
-(screenshot of default git bash prompt)
 
 `bash` is the shell we will be using for this workshop. It is a built-in feature of macOS and Linux, and when you install `git` on Windows, `bash` is installed alongside it by default.
 
@@ -47,7 +43,13 @@ When you open the terminal, it starts a **shell**, which displays a **prompt**. 
 
 When you write out a command and press `Enter`, the first word tells the shell what program to use when executing it. Anything after the first word is an **argument** or **option**, which is a way of making what you want the program to do more specific. If a program can do lots of different things, sometimes it will have special arguments called **subcommands** to differentiate between functionalities.
 
-(screenshot with anatomy of a command)
+In this screenshot, the terminal window is outlined in red, the prompt displayed by `bash` is outlined in yellow, and an example command is typed out with the program underlined in green and the only argument to that program underlined in blue.
+
+<br />
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/85d98325-12d6-4b5e-87c6-bdf14c2cc725" />
+</div>
+<br />
 
 ## The `Tab` Key
 
@@ -57,11 +59,32 @@ Many shells support **autocompletion**. This means that you can start typing out
 
 ## Opening a Terminal
 
-(screenshots)
+### Windows
 
-* Windows
-  * `Start Menu > Git Bash`
-* macOS
-  * `Spotlight Search (Cmd+Space) > Terminal`
-* Linux
-  * You know what you're doing (if you don't, `"Windows" key > Terminal`, probably)
+Open the Start Menu by pressing the `Windows` key and type "git bash", then click on the result.
+
+<br />
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/242d918f-ee35-4ab1-93a8-95ae422947b8" />
+</div>
+<br />
+
+### macOS
+
+Open Spotlight Search by pressing `Command + Space` and type "terminal", then click on the result.
+
+<br />
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/fd2fcbd2-5fd1-4057-9f10-0b67a57b014c" />
+</div>
+<br />
+
+### Linux
+
+Usually pressing the "`Windows`" key and typing "terminal" or "console" will work.
+
+<br />
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/fa96adc5-0abc-42c5-9448-0f20d1ff9864" />
+</div>
+<br />

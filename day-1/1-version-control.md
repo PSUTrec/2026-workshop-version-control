@@ -1,6 +1,6 @@
 # Version Control
 
-Fundamentally, [version control](https://en.wikipedia.org/wiki/Version_control) is the practice of tracking edits made to computer files over time. A Version Control System (VCS) is a software tool that automates some aspects of version control.
+Fundamentally, [**version control**](https://en.wikipedia.org/wiki/Version_control) is the practice of tracking edits made to computer files over time. A **VCS** (Version Control System) is a software tool that automates some aspects of version control.
 
 One example of automated version control is Microsoft Word's Track Changes feature, which lets you make pending changes to a document that can be accepted or rejected by your collaborators later.
 
@@ -18,7 +18,7 @@ Other tools like OneDrive's Version History feature can be used to find out what
 </div>
 <br />
 
-Today we will be learning how to use [`git`](https://git-scm.com/), which is a software tool that automates some aspects of version control. `git` was originally designed to make it easier for a large group of people to collaborate on a programming project over the internet. It is particularly useful for resolving differences between files caused by multiple people making conflicting edits to the same file.
+Today we will be learning how to use [**`git`**](https://git-scm.com/), which is a software tool that automates some aspects of version control. `git` was originally designed to make it easier for a large group of people to collaborate on a programming project over the internet. It is particularly useful for resolving differences between files caused by multiple people making conflicting edits to the same file.
 
 <br />
 <div align="center">

@@ -1,4 +1,4 @@
-Use this file as a template to get started with your recipe. You can find the Markdown [here](/exercises/1-recipe.md?plain=1).
+Use this file as a template to get started with your recipe, and delete this line. You can find the Markdown [here](/exercises/1-recipe.md?plain=1).
 
 # Put the title of your recipe here.
 

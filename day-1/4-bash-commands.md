@@ -1,5 +1,7 @@
 # Introductory `bash` Commands
 
+whenever we run a command, we are doing so from a specific folder on your computer, on windows there is a separate sandbox area set up for git bash, on macOS and linux it's your home directory, usually your prompt will show the directory but if not it's pwd time
+
 * mkdir
 * head <file>
 * tail <file>

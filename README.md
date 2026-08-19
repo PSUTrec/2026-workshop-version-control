@@ -21,11 +21,4 @@
   * [Module 1: Project Management with GitHub](/day-2/1-project-management.md)
   * [Module 2: Cookbook Exercises](/day-2/2-cookbook.md)
 * [Cheatsheets](https://github.com/PSUTrec/2026-workshop-version-control/wiki/Resources:-Cheat-Sheets)
-
-
-## Further reading
-
-* [Common `git` patterns/workflows](https://happygitwithr.com/workflows-intro)
-* [Resolving merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
-* [Cascadia R Conference Intro to Git Workshop](https://github.com/cascadiarconf-gh-workshops/intro-github-1) (possibly link to their github basics instead)
-* GitHub documentation
+* [Further Reading](https://github.com/PSUTrec/2026-workshop-version-control/wiki/Further-Reading)

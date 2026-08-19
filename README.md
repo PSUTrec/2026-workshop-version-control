@@ -6,7 +6,7 @@
 
 <hr />
 
-### Table of Contents
+### Overview
 * Day 1
   * [Part 1: Version Control](/day-1/1-version-control.md)
   * [Part 2: Command Line](/day-1/2-command-line.md)

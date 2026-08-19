@@ -20,8 +20,7 @@
 * Day 2
   * [Part 1: Project Management](/day-2/1-project-management.md)
   * [Part 2: Cookbook](/day-2/2-cookbook.md)
-* Cheatsheets
-  * (see wiki)
+* [Cheatsheets](https://github.com/PSUTrec/2026-workshop-version-control/wiki/Resources:-Cheat-Sheets)
 
 
 ## Further reading

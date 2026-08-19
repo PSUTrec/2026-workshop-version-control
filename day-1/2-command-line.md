@@ -1,4 +1,4 @@
-## Introduction to the Command Line
+# What is the Command Line?
 
 A **GUI** (Graphical User Interface) is the main way most people interact with a computer: you open up an application and it visually presents various ways to get it to do things. For example, if you are editing a document in Microsoft Word and want to save your changes, you can click on the `💾` button at the top of the window.
 
@@ -23,15 +23,44 @@ Unlike a GUI, which stays open and lets you click on buttons until you close it,
 </div>
 <br />
 
-* why command line?
-* bash vs terminal
-* tab completion
-* open a terminal
+## Advantages of Using the Command Line to Interact with `git`
+
+There are many ways to interact with `git`, including some [GUI desktop applications](https://git-scm.com/tools/guis). However, for this workshop we will be teaching you how to use `git` through its CLI. This is primarily because in order to use a `git` GUI you would still have to install `git`, so it would be an extra piece of software to install.
+
+We will use GitHub's web interface for some tasks that can be accomplished using `git` directly in an effort to reduce the learning curve. We will talk more about GitHub in the next module.
+
+## What is `bash`?
+
+When we talk about "the command line", we are actually talking about several different software tools that work together.
+
+The first is called a **terminal emulator** or just **terminal**. This refers to the application that you open on your computer to access a command line.
+
+(screenshot of git bash executable/command prompt etc)
+
+When you open the terminal, it starts a **shell**, which displays a **prompt**. The shell is the program that reads the things you are typing in and decides what to do when you hit `Enter`, and the prompt is some text that the shell prints out to let you know it is waiting for your input.
+
+(screenshot of default git bash prompt)
+
+`bash` is the shell we will be using for this workshop. It is a built-in feature of macOS and Linux, and when you install `git` on Windows, `bash` is installed alongside it by default.
+
+(Note: macOS and some Linux distributions use `zsh` as the default shell instead of `bash`. If your default shell is `zsh` it will not be a problem for this workshop, because `zsh` is backwards-compatible with `bash`, meaning that any `bash` command will work in `zsh`.)
+
+When you write out a command and press `Enter`, the first word tells the shell what program to use when executing it. Anything after the first word is an **argument** or **option**, which is a way of making what you want the program to do more specific. If a program can do lots of different things, sometimes it will have special arguments called **subcommands** to differentiate between functionalities.
+
+(screenshot with anatomy of a command)
+
+## The `Tab` Key
+
+Many shells support **autocompletion**. This means that you can start typing out a command or a filename and then press `Tab` to have the shell fill in the rest of it for you. In `bash`, pressing `Tab` in this situation will not display any new output, but pressing it again will show you a list of the different things it could autocomplete for you.
+
+(screenshot of this in bash)
+
+## Opening a Terminal
+
+(screenshots)
 
 * Windows
   * `Start Menu > Git Bash`
-    * This is an emulation of the command line that is installed by default on macOS and Linux
-    * Windows has its own command prompt but it is harder to use with `git`
 * macOS
   * `Spotlight Search (Cmd+Space) > Terminal`
 * Linux

@@ -10,9 +10,11 @@ A **GUI** (Graphical User Interface) is the main way most people interact with a
 
 In contrast, **CLIs** (Command Line Interfaces) are less approachable, but often more flexible. A CLI presents you with a way to type out instructions for the computer to follow in a structured way. Generally, you type the name of a program, followed by what you would like it to do, then press the `Enter` key.
 
+The following is an example of how we will write out a series of commands during this workshop. Where there is a new line, it means that you should press `Enter` to run the first command before inputting the second one.
+
 ```bash
-# Example Command
 cd Downloads
+mkdir new-folder
 ```
 
 Unlike a GUI, which stays open and lets you click on buttons until you close it, when you invoke a program via CLI it runs as a one-off command, then prints out any relevant information about what it did, after which the command line window remains open and ready to accept more input.

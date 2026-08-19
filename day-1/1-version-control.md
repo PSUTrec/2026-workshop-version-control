@@ -44,3 +44,5 @@ Keeping code or documents under version control can make it much easier to answe
 <br />
 
 For example, when you make a change and track it with `git`, you have to write a short message to go along with it. Ideally, you and your collaborators should use this to provide a clear and concise reasoning for each change you make. This can be extremely helpful when revisiting a project after a period of time focusing on other things.
+
+### Next Module: [What is the Command Line?](/day-1/2-command-line.md)
